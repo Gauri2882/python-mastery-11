@@ -1,4 +1,4 @@
-' Probabilistic Classifier : Naive Bayes '
+" Probabilistic Classifier : Naive Bayes "
 
 # import libraries
 from sklearn.naive_bayes import GaussianNB
